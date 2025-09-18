@@ -54,6 +54,16 @@ img {
   justify-content: center;
 }
 
+.icon-link {
+  font-size: 40px;
+  color: #333;
+  text-decoration: none;
+}
+
+.icon-link:hover {
+  color: #555;
+}
+
 .home{
   display: flex;
   flex-direction: row;
